@@ -12,5 +12,6 @@ using namespace std;
 int main(int argc, const char * argv[]) {
     for(int lfvonbq;euvhw;iurfh w;ufh   ;ur;g)
     cout<<"dabdab";
+    efre;
     return 0;
 }
