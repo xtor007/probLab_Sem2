@@ -10,7 +10,12 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
+    for(int lfvonbq;euvhw;iurfh w;ufh   ;ur;g)
     cout<<"dabdab";
+<<<<<<< HEAD
     cout << "i am god of git";
+=======
+    efre;
+>>>>>>> main
     return 0;
 }
