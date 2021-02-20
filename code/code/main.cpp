@@ -13,7 +13,7 @@ int main(int argc, const char * argv[]) {
     for(int lfvonbq;euvhw;iurfh w;ufh   ;ur;g)
     cout<<"dabdab";
 <<<<<<< HEAD
-    cout << "i am god of git";
+    cout << "i am Dog of git";//барса:псж
 =======
     efre;
 >>>>>>> main
