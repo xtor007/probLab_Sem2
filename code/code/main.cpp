@@ -11,5 +11,6 @@ using namespace std;
 
 int main(int argc, const char * argv[]) {
     cout<<"dabdab";
+    cout << "i am god of git";
     return 0;
 }
